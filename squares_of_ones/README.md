@@ -1,6 +1,9 @@
 The idea is to print digits starting from 1-9 to 9-1 in the increasing followed by decreasing sequence through squaring number of ones, i.e. if arg passed to this script is 4; `1111*1111`, if arg passed is 6; `111111*111111`.
 
-**Note:** Script by default produces output for an arg 9 if no arg is passed or an arg above 9 is passed.
+**Note:**
+1. `squares_of_ones.py` works; but not recommended because of its complexness.
+2. `squares_of_ones_1.py` works and is recommended approach due to its simplicity.
+3. Both scripts by default produces output for an arg 9 if no arg is passed or an arg above 9 is passed.
 
 **Examples:**
 1. arg passed is `4`

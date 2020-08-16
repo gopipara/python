@@ -16,6 +16,7 @@ def num_concat(num1, num2):
      num1 += num2
      return num1
 
+num_concat(1,8)
 for counter, i in enumerate([i] * n):
     if counter == 0:
         print(i)
